@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/ronin/gs_002/Documents/classes/2023/winter/cs440/hw/CS440_hw6/out/build",
+  "command": "g++  -isystem /usr/lib/llvm-14/include/c++/v1 -std=c++11 -o CMakeFiles/main.dir/src/main5.cpp.o -c /media/ronin/gs_002/Documents/classes/2023/winter/cs440/hw/hw5/cs440_hw5/src/main5.cpp",
+  "file": "/media/ronin/gs_002/Documents/classes/2023/winter/cs440/hw/CS440_hw6/src/main.cpp"
+}
+]
